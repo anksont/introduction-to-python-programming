@@ -3,11 +3,10 @@ def subtract_reversed(a_list):
         return 0
 
     result = a_list[-1]
-    index = 0
-    while index < len(a_list) - 1:
-        elem = a_list[index]
+    index = 2
+    while index <= len(a_list):
+        elem = a_list[-1 * index]
         result -= elem
-
         index += 1
 
     return result
