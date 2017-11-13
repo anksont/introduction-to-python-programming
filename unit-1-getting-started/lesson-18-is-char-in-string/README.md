@@ -6,4 +6,14 @@ Do NOT use the `in` keyword to determine if it is in there.
 
 Return True if it is there and False if it is not.
 
+Examples:
+
+```python
+>>>  char_in_string("abcdef", "X")
+False
+
+>>>  char_in_string("abcXdef", "X")
+True
+```
+
 Note: If you find the character, you can leave the loop early by using a `break` or a `return` statement.

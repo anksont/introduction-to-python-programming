@@ -6,4 +6,11 @@ Complete the function `convert_pirate_to_dog` with a for loop so that it goes th
 
 Remember that strings are immutable, so you will have to create a new string for the result of how a dog would sound. 
 
+Examples:
+
+```python
+>>>  convert_pirate_to_dog("arrrr")
+'aoorooroorooroo'
+```
+
 Hint: To add letters to the result string, use the += operator.
