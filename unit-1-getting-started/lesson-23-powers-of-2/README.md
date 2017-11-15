@@ -7,15 +7,15 @@ Complete `powers_of_2` using a for loop so that receives the `power` and returns
 Examples:
 
 ```python
->>> powers_of_2(3, 0)
+>>> powers_of_2(0)
 1
 
->>> powers_of_2(3, 1)
+>>> powers_of_2(1)
 2
 
->>> powers_of_2(3, 2)
+>>> powers_of_2(2)
 4
 
->>> powers_of_2(3, 3)
+>>> powers_of_2(3)
 8
 ```
