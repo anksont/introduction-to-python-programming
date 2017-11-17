@@ -18,7 +18,9 @@ second_row = 'XXO'
 third_row = 'OXO'
 ```
 
-The function that you need to write is `format_tic_tac_toe_board` that just receives those three rows. Example:
+The function that you need to write is `format_tic_tac_toe_board` that just receives those three rows. It will return the board with those rows filled in correctly from the row information.
+
+ Example:
 
 ```python
 first_row = 'OOX'
