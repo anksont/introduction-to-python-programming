@@ -19,3 +19,12 @@ random_matrix(4, 4)
     [65, 99, 49, 10]
 ]
 ```
+
+## Random Numbers
+To generate random numbers you can use the `random` module. It's super simple, check the following example ([or try it for yourself](https://repl.it/repls/StarchyRunnyAmericanrobin)):
+
+```python
+import random
+number = random.randint(0, 100) # A random number between 0 and 100
+print(number)
+```
