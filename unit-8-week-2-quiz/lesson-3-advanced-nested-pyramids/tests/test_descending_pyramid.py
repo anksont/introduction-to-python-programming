@@ -10,4 +10,4 @@ x
 
 
 def test_descending_pyramid():
-    assert nested_pyramid(7, 'x', 'DESC') == desc_pyramid
+    assert advanced_nested_pyramid(7, 'x', 'DESC') == desc_pyramid

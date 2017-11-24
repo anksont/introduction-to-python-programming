@@ -1,4 +1,4 @@
-def nested_pyramid(height, char, order):
+def advanced_nested_pyramid(height, char, order):
     pyramid = ''
 
     for level in range(1, height + 1):
