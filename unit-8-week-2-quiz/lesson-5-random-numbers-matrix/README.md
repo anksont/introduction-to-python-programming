@@ -20,7 +20,7 @@ random_matrix(4, 4)
 ]
 ```
 
-## Random Numbers
+### Random Numbers
 To generate random numbers you can use the `random` module. It's super simple, check the following example ([or try it for yourself](https://repl.it/repls/StarchyRunnyAmericanrobin)):
 
 ```python
