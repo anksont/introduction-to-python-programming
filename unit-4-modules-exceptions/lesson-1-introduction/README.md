@@ -1,4 +1,4 @@
-# Modules and Packages
+# Intro to Modules
 
 We write a lot of code. **A LOT**. The [Django Web Framework](https://www.djangoproject.com/) entire project's size is **39 Megabytes**, distributed across **2439 files**. When you start coding, you usually start with a single `main.py` file. But, as the code starts to grow, you feel the need of splitting it between different files (or even directories) to keep it a little bit more organized. Imagine those 39MB of Django code in a single file. That'd be a file with 318,169 Lines of Code.
 
