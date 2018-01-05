@@ -1,5 +1,5 @@
 # Import the library here!
 
 
-def format_date(a_date):
+def celebrate_if_friday(date):
     pass
